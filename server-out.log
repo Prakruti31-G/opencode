@@ -1,0 +1,7 @@
+[db] Applied migration 1 (initial_schema) -> C:\Users\Ritheesha H N\OneDrive\Documents\Referral Management\data\recruitment.db
+[server] Database ready: C:\Users\Ritheesha H N\OneDrive\Documents\Referral Management\data\recruitment.db
+[server] Recruiter account created (username: admin)
+[server] Seeded 6 baseline job listings
+[server] Data in database: { users: 1, applicants: 0, referrals: 0, jobs: 6 }
+[server] API listening on http://127.0.0.1:5000
+[server] Allowed origins: http://localhost:5173, http://127.0.0.1:5173, http://localhost:4173, http://127.0.0.1:4173
